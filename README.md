@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @hanumansettymahendrasushanth
+<h2><strong>Hey there!I'm Mahendra Sushanth</strong></h2>
+
+ <h3>👨‍💻 &nbsp;About me</h3>
+
 - 👀 I’m interested in web development,Integrated Machine learning projects 
 - 🌱 I’m currently working on Machine Learning and Aritifical Intelligence
 - 💞️ I’m looking to collaborate on differnet scalability projects.
